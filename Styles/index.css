@@ -22,7 +22,8 @@ body main .section {
   padding: 20px;
 }
 body main .section img {
-  width: 220px;
+  width: 200px;
+  height: 200px;
   border: none;
   border-radius: 100px;
 }
