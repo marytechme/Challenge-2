@@ -29,7 +29,7 @@ body main .section img {
 }
 body main .section img:hover {
   border: 7px solid #00b846;
-  transition: 1.5s;
+  transition: 1s;
 }
 body main .section h2 {
   color: black;
@@ -46,6 +46,9 @@ body main .section svg {
   width: 50px;
   height: 30px;
   text-align: center;
+}
+body main .section svg:hover {
+  transform: scale(1.5);
 }
 
 @media screen and (max-width: 1000px) {
