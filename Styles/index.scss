@@ -12,7 +12,7 @@ body{
         align-items: center;
         .section{
             margin: 20px;
-            margin-top: 180px;
+            margin-top: 160px;
             border: 2px solid white;
             border-radius: 20px;
             background-color: white;
@@ -25,7 +25,8 @@ body{
                 border-radius: 100px;
             }
             img:hover{
-                border: 5px solid #00b846;
+                border: 7px solid #00b846;
+                transition: 1.5s;
             }
             h2{
                 color: black;

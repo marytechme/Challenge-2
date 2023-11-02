@@ -15,7 +15,7 @@ body main {
 }
 body main .section {
   margin: 20px;
-  margin-top: 180px;
+  margin-top: 160px;
   border: 2px solid white;
   border-radius: 20px;
   background-color: white;
@@ -28,7 +28,8 @@ body main .section img {
   border-radius: 100px;
 }
 body main .section img:hover {
-  border: 5px solid #00b846;
+  border: 7px solid #00b846;
+  transition: 1.5s;
 }
 body main .section h2 {
   color: black;
